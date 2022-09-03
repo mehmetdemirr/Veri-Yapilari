@@ -1,0 +1,15 @@
+C:\Users\mehme\Desktop\kodlarım\stackkodu\stackkodu\bin\Debug\net6.0\stackkodu.exe
+C:\Users\mehme\Desktop\kodlarım\stackkodu\stackkodu\bin\Debug\net6.0\stackkodu.deps.json
+C:\Users\mehme\Desktop\kodlarım\stackkodu\stackkodu\bin\Debug\net6.0\stackkodu.runtimeconfig.json
+C:\Users\mehme\Desktop\kodlarım\stackkodu\stackkodu\bin\Debug\net6.0\stackkodu.dll
+C:\Users\mehme\Desktop\kodlarım\stackkodu\stackkodu\bin\Debug\net6.0\stackkodu.pdb
+C:\Users\mehme\Desktop\kodlarım\stackkodu\stackkodu\obj\Debug\net6.0\stackkodu.csproj.AssemblyReference.cache
+C:\Users\mehme\Desktop\kodlarım\stackkodu\stackkodu\obj\Debug\net6.0\stackkodu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\Desktop\kodlarım\stackkodu\stackkodu\obj\Debug\net6.0\stackkodu.AssemblyInfoInputs.cache
+C:\Users\mehme\Desktop\kodlarım\stackkodu\stackkodu\obj\Debug\net6.0\stackkodu.AssemblyInfo.cs
+C:\Users\mehme\Desktop\kodlarım\stackkodu\stackkodu\obj\Debug\net6.0\stackkodu.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\kodlarım\stackkodu\stackkodu\obj\Debug\net6.0\stackkodu.dll
+C:\Users\mehme\Desktop\kodlarım\stackkodu\stackkodu\obj\Debug\net6.0\refint\stackkodu.dll
+C:\Users\mehme\Desktop\kodlarım\stackkodu\stackkodu\obj\Debug\net6.0\stackkodu.pdb
+C:\Users\mehme\Desktop\kodlarım\stackkodu\stackkodu\obj\Debug\net6.0\stackkodu.genruntimeconfig.cache
+C:\Users\mehme\Desktop\kodlarım\stackkodu\stackkodu\obj\Debug\net6.0\ref\stackkodu.dll
