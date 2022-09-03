@@ -1,0 +1,15 @@
+C:\Users\mehme\Desktop\kodlarım\QueueKodu\QueueKodu\obj\Debug\net6.0\QueueKodu.csproj.AssemblyReference.cache
+C:\Users\mehme\Desktop\kodlarım\QueueKodu\QueueKodu\obj\Debug\net6.0\QueueKodu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\Desktop\kodlarım\QueueKodu\QueueKodu\obj\Debug\net6.0\QueueKodu.AssemblyInfoInputs.cache
+C:\Users\mehme\Desktop\kodlarım\QueueKodu\QueueKodu\obj\Debug\net6.0\QueueKodu.AssemblyInfo.cs
+C:\Users\mehme\Desktop\kodlarım\QueueKodu\QueueKodu\obj\Debug\net6.0\QueueKodu.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\kodlarım\QueueKodu\QueueKodu\bin\Debug\net6.0\QueueKodu.exe
+C:\Users\mehme\Desktop\kodlarım\QueueKodu\QueueKodu\bin\Debug\net6.0\QueueKodu.deps.json
+C:\Users\mehme\Desktop\kodlarım\QueueKodu\QueueKodu\bin\Debug\net6.0\QueueKodu.runtimeconfig.json
+C:\Users\mehme\Desktop\kodlarım\QueueKodu\QueueKodu\bin\Debug\net6.0\QueueKodu.dll
+C:\Users\mehme\Desktop\kodlarım\QueueKodu\QueueKodu\bin\Debug\net6.0\QueueKodu.pdb
+C:\Users\mehme\Desktop\kodlarım\QueueKodu\QueueKodu\obj\Debug\net6.0\QueueKodu.dll
+C:\Users\mehme\Desktop\kodlarım\QueueKodu\QueueKodu\obj\Debug\net6.0\refint\QueueKodu.dll
+C:\Users\mehme\Desktop\kodlarım\QueueKodu\QueueKodu\obj\Debug\net6.0\QueueKodu.pdb
+C:\Users\mehme\Desktop\kodlarım\QueueKodu\QueueKodu\obj\Debug\net6.0\QueueKodu.genruntimeconfig.cache
+C:\Users\mehme\Desktop\kodlarım\QueueKodu\QueueKodu\obj\Debug\net6.0\ref\QueueKodu.dll
