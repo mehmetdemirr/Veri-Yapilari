@@ -1,0 +1,15 @@
+C:\Users\mehme\Desktop\kodlarım\agacYapisi\agacYapisi\bin\Debug\net6.0\agacYapisi.exe
+C:\Users\mehme\Desktop\kodlarım\agacYapisi\agacYapisi\bin\Debug\net6.0\agacYapisi.deps.json
+C:\Users\mehme\Desktop\kodlarım\agacYapisi\agacYapisi\bin\Debug\net6.0\agacYapisi.runtimeconfig.json
+C:\Users\mehme\Desktop\kodlarım\agacYapisi\agacYapisi\bin\Debug\net6.0\agacYapisi.dll
+C:\Users\mehme\Desktop\kodlarım\agacYapisi\agacYapisi\bin\Debug\net6.0\agacYapisi.pdb
+C:\Users\mehme\Desktop\kodlarım\agacYapisi\agacYapisi\obj\Debug\net6.0\agacYapisi.csproj.AssemblyReference.cache
+C:\Users\mehme\Desktop\kodlarım\agacYapisi\agacYapisi\obj\Debug\net6.0\agacYapisi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\Desktop\kodlarım\agacYapisi\agacYapisi\obj\Debug\net6.0\agacYapisi.AssemblyInfoInputs.cache
+C:\Users\mehme\Desktop\kodlarım\agacYapisi\agacYapisi\obj\Debug\net6.0\agacYapisi.AssemblyInfo.cs
+C:\Users\mehme\Desktop\kodlarım\agacYapisi\agacYapisi\obj\Debug\net6.0\agacYapisi.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\kodlarım\agacYapisi\agacYapisi\obj\Debug\net6.0\agacYapisi.dll
+C:\Users\mehme\Desktop\kodlarım\agacYapisi\agacYapisi\obj\Debug\net6.0\refint\agacYapisi.dll
+C:\Users\mehme\Desktop\kodlarım\agacYapisi\agacYapisi\obj\Debug\net6.0\agacYapisi.pdb
+C:\Users\mehme\Desktop\kodlarım\agacYapisi\agacYapisi\obj\Debug\net6.0\agacYapisi.genruntimeconfig.cache
+C:\Users\mehme\Desktop\kodlarım\agacYapisi\agacYapisi\obj\Debug\net6.0\ref\agacYapisi.dll
